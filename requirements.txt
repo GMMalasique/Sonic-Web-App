@@ -1,0 +1,10 @@
+lascheck==0.1.4
+lasio==0.31
+matplotlib==3.7.2
+missingno==0.5.2
+numpy==1.24.3
+pandas==2.0.3
+Pillow==9.4.0
+Pillow==10.2.0
+streamlit==1.27.2
+streamlit_option_menu==0.3.12
